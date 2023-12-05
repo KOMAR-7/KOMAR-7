@@ -11,8 +11,6 @@
 
 - 🔭 Pursuing **Bachelor in Computer Engineering**
 
-- 🌱 I’m currently learning **Django**
-
 - 💬 Ask me about **Pyhton, html, css, js, php, java, mobile application development**
 
 - 📫 How to reach me **Dm me on Instagram @k.omar_7 or mail me at: khanomar0417@gmail.com**
