@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/khanoma83798220" target="blank"><img src="https://img.shields.io/twitter/follow/khanoma83798220?logo=twitter&style=for-the-badge" alt="khanoma83798220" /></a> </p>
 
-- 🔭 I recently completed **Diploma in Computer Engineering**
+- 🔭 Pursuing **Bachelor in Computer Engineering**
 
 - 🌱 I’m currently learning **Django**
 
