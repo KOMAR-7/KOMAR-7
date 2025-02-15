@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khan Omar</h1>
-<h3 align="center">A passionate Full Satck developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komar-7&label=Profile%20views&color=0e75b6&style=flat" alt="komar-7" /> </p>
 
